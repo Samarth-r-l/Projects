@@ -1,6 +1,6 @@
 # Hi there, I'm Samarth Lagare
 
-  Final-year BSc (AI & ML) student | Aspiring Data Scientist  
+  Final-year BSc Data Science Student | Aspiring Data Scientist  
   Passionate about solving real-world problems using Machine Learning, AI, and Data Analytics.
 
 - Mumbai, India  
